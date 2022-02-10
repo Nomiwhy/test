@@ -1,2 +1,4 @@
+i = 1
 while 1 == 1:
-    print(":)")
+    print(":)", str(i))
+    i = i + 1
